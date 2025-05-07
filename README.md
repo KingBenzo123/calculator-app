@@ -15,7 +15,7 @@ A modern, responsive calculator built with **React**. This app supports basic ar
 
 ## 📸 Preview
 
-> *(Optional: Include a screenshot here)*  
+  
 > ![Calculator Screenshot](screenshot.png)
 
 ---
